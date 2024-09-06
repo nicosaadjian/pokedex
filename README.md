@@ -1,4 +1,4 @@
-# pokedex
+# pokedex - Python project
 Pokedex with the generic spanish description.
 It has Google Text to Speech implemented in order to emmulate the old robot-like pokedex's voice.
 
